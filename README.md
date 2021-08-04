@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋, I'm Alfonso Toriz-Vázquez</h1>
-<h3 align="center">A biomedical engineering undergraduate student interested in image processing, artificial intelligence and quatum computing</h3>
+<h3 align="center">A biomedical engineering undergraduate student interested in image processing, artificial intelligence and quantum computing</h3>
 
 - 🔭 I’m currently working on **Migrating old projects to Github**
 
